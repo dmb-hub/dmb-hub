@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy David Manso Boyero  
 
-<!--
-**dmb-hub/dmb-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Desarrollo de Aplicaciones Web (DAW)** en el IES Gregorio Prieto (Valdepeñas).  
+💻 Apasionado por la **informática y el desarrollo de software**.  
+🚗 Interesado también en el mundo de la **automoción**.  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y herramientas  
+- JavaScript, React  
+- Java, SQL  
+- PowerApps, Microsoft Azure  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto  
+- [GitHub](https://github.com/dmb-hub)  
+
+¡Siempre abierto a aprender y colaborar en nuevos proyectos! 🚀  
+
